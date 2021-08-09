@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.appoinment {
+  height: 400px;
+  width: 660px;
+  margin: 217px auto;
+  padding: 30px;
+  background-color: rgba(8, 202, 154, 0.836);
+}
+.patientName {
+  margin-bottom: 20px;
+}
+#firstName {
+  height: 40px;
+  width: 300px;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border-style: none;
+}
+#lastName {
+  height: 40px;
+  width: 300px;
+  margin-left: 20px;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border-style: none;
+}
+.phoneDate {
+  margin-bottom: 20px;
+}
+#phone {
+  height: 40px;
+  width: 300px;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border-style: none;
+}
+#date {
+  height: 40px;
+  width: 300px;
+  margin-left: 20px;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border-style: none;
+}
+
+#observation {
+  height: 200px;
+  width: 643px;
+  padding-top: 10px;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border-style: none;
+}
+#submit {
+  height: 50px;
+  width: 200px;
+  margin-top: 20px;
+  color: rgba(8, 202, 154, 0.836);
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border-style: none;
+  background-color: white;
+  cursor: pointer;
+}
